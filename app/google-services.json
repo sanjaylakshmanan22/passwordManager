@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232754090859",
+    "project_id": "passapp-2d4e2",
+    "storage_bucket": "passapp-2d4e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232754090859:android:3d76f9a5d7dbde8254b22e",
+        "android_client_info": {
+          "package_name": "com.example.passapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuJJx6ROB7e28ddRUVs5UV6ao268SYq1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
